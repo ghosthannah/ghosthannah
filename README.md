@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghosthannah
-- 👀 I’m interested in web technologies, full stack development, and IoT
+- 👀 I’m interested in web technologies, full stack development, cloud computing, automation, and IoT
 - 🌱 I’m currently learning WebGL
 - 📫 How to reach me: visit https://hannahcorrello.com
 
